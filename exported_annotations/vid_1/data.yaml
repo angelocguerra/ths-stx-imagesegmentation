@@ -1,0 +1,14 @@
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorbike
+  4: bus
+  5: truck
+  6: jeepney
+  7: potholes
+  8: lane markings
+  9: barrier
+  10: tricycle
+path: .
+train: train.txt
