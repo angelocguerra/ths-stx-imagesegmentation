@@ -12,3 +12,4 @@ names:
   10: tricycle
 path: .
 train: train.txt
+val: val.txt
